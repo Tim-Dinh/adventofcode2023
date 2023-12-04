@@ -1,4 +1,3 @@
-# Please paste or enter the Python code, then click Run
 cal_document = '''76xkqjzqtwonfour
 sixthree8sixjxjqsjgjgp
 38bgcczgtninefivefive
